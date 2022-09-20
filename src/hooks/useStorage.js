@@ -7,7 +7,6 @@ import {
   db,
   collection,
   addDoc,
-  updateDoc,
   serverTimestamp,
 } from "../firebase/configNew";
 
