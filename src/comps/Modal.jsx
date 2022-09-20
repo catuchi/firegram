@@ -7,6 +7,8 @@ const Modal = ({ selectedImg, setSelectedImg }) => {
     }
   };
 
+  console.log(selectedImg);
+
   return (
     <div className="backdrop" onClick={handleClick}>
       <img src={selectedImg} alt="enlarged pic" />
