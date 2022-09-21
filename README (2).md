@@ -14,11 +14,11 @@ npm start
 
 ## Demo
 
-This app is deployed on netlify. [Try it](https://whimsical-cobbler-7797c5.netlify.app/)
+This app is deployed on netlify. [Try it](https://euphonious-douhua-b312b6.netlify.app/)
 
 ## Tech Stack
 
-React, Javascript, HTML, CSS, Parcel
+React, Firebase, Javascript, HTML, CSS, Parcel
 
 ## Version
 
